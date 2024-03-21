@@ -1,6 +1,6 @@
 ## Installation
 
-The main dependencies for this project are MBP and Meep. 
+The main dependencies for this project are MPB and Meep. 
 
 If on Windows, use WSL with Ubuntu. Within your Ubuntu shell, do the following:
 
